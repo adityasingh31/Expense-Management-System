@@ -18,7 +18,7 @@
 
 ## Live Demo
 
-Check out the live version of the app [https://task-managment-system.onrender.com/](LIVE_URL).
+Check out the live version of the app [(https://task-managment-system.onrender.com/login)](LIVE_URL).
 
 ## Getting Started
 
