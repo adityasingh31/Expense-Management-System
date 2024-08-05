@@ -16,9 +16,6 @@
 - **Database:** MongoDB
 - **UI Design:** Ant Design
 
-## Live Demo
-
-Check out the live version of the app [(https://task-managment-system.onrender.com/login)](LIVE_URL).
 
 ## Getting Started
 
